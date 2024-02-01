@@ -63,8 +63,26 @@ Edfolio is an integrated e-commerce bookstore linked with Skooltek, a school man
 
 Edfolio streamlines book purchasing for students, ensuring a seamless connection with Skooltek and enriching the overall educational experience.
 
-### Project 2: [Project Name](link-to-project2)
-Description of the project...
+# Project 2: Skooltek Meet
+
+Skooltek Meet is a web conference platform similar to Google Meet or Zoom, designed and implemented for seamless virtual communication within the Skooltek ecosystem.
+
+## Key Contributions:
+
+- **Installed and Modified Jitsi Meet (Open Source):**
+  - Implemented and customized the open-source Jitsi Meet platform to meet the specific requirements of Skooltek Meet.
+
+- **Configured AWS EC2 Instance and Linux Server:**
+  - Leveraged AWS services to set up an EC2 instance and configured a Linux server to ensure a robust and scalable infrastructure.
+
+## Technologies Used:
+
+- **PHP**
+- **Jitsi Meet**
+- **AWS**
+- **Git**
+- **HTML**
+- **CSS**
 
 ## 📈 GitHub Stats
 
