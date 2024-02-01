@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Jaylord Andrada Lagud! 👋
 
 ## About Me
 
-I'm a passionate [Your Profession] with a keen interest in [Your Interests]. I love exploring new technologies and contributing to open-source projects.
+I'm a passionate PHP Web Developer with a keen interest in Web Development. I love exploring new technologies and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
 
