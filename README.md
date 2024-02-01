@@ -160,12 +160,3 @@ Similar to the Corvive project, these OpenCart projects involved customization, 
 
 ---
 
-Feel free to copy and paste this markdown into your README.md file in the GitHub repository associated with your profile. Customize it further by adding any additional details or links you find necessary.
-
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-Feel free to explore my repositories for more projects and contributions.
-
