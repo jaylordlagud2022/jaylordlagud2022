@@ -63,7 +63,7 @@ Edfolio is an integrated e-commerce bookstore linked with Skooltek, a school man
 
 Edfolio streamlines book purchasing for students, ensuring a seamless connection with Skooltek and enriching the overall educational experience.
 
-# Project 2: Skooltek Meet
+# Skooltek Meet
 
 Skooltek Meet is a web conference platform similar to Google Meet or Zoom, designed and implemented for seamless virtual communication within the Skooltek ecosystem.
 
@@ -83,6 +83,85 @@ Skooltek Meet is a web conference platform similar to Google Meet or Zoom, desig
 - **Git**
 - **HTML**
 - **CSS**
+
+## EPX Worldwide
+
+**Description:**
+EPX Worldwide is a dynamic tech platform and global network fostering connections among peers worldwide. The platform allows users to host and attend talks, classes, events, adventures, and build their own communities. Key contributions include the development of a Customized WooCommerce plugin, creation of custom WordPress plugins, and the establishment of a REST API for mobile integration. Mautic CRM integration and setup of WooCommerce subscription and payment gateway enhance the platform's functionality.
+
+**Technologies Used:**
+- PHP
+- WordPress
+- MySQL
+- Cpanel
+- JavaScript
+- CSS
+- HTML
+
+---
+
+## LMW (Learn My Word)
+
+**Description:**
+LMW is a purpose-driven platform designed for those teaching God's Word. Developed from scratch, the project includes the setup of database tables and relations. Configuration of Stripe subscription and payment gateway, coupled with the development of a REST API for mobile, empowers users to improve their biblical understanding and share the gospel confidently. The platform is hosted on AWS EC2 instance and Linux server.
+
+**Technologies Used:**
+- PHP
+- Laravel
+- MySQL
+- Git
+- JavaScript
+- CSS
+- HTML
+
+---
+
+## Newtech
+
+**Description:**
+Contributions to the Newtech project involve adding new features and modifying source code within the Bitrix framework. Technologies utilized include PHP, Bitrix Framework, MySQL, Git, and JavaScript.
+
+**Technologies Used:**
+- PHP
+- Bitrix Framework
+- MySQL
+- Git
+- JavaScript
+
+---
+
+## E-commerce Projects
+
+### Corvive (OpenCart)
+
+**Description:**
+Tailored OpenCart to specific requirements, modified OpenCart plugins for personalized functionality, and seamlessly integrated various merchant services. Configured shipping and tax settings for a comprehensive e-commerce setup.
+
+**Technologies Used:**
+- PHP
+- OpenCart
+- JavaScript
+- MySQL
+- PERL
+
+### J. Elizabeth Boutique (OpenCart)
+
+### Tate and Zoey (OpenCart)
+
+**Description:**
+Similar to the Corvive project, these OpenCart projects involved customization, modification of plugins, and comprehensive e-commerce setup.
+
+**Technologies Used:**
+- PHP
+- OpenCart
+- JavaScript
+- MySQL
+- PERL
+
+---
+
+Feel free to copy and paste this markdown into your README.md file in the GitHub repository associated with your profile. Customize it further by adding any additional details or links you find necessary.
+
 
 ## 📈 GitHub Stats
 
