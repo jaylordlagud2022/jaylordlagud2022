@@ -13,9 +13,9 @@ I'm a passionate web developer with expertise in PHP, MySQL, WordPress, Laravel,
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 🌐 Connect with Me
+Feel free to reach out to me via email at [jaylordlagud2022@gmail.com](mailto:jaylordlagud2022@gmail.com) for collaboration, questions, or just to say hello! I'm always open to new opportunities and exciting discussions.
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylord-andrada-lagud-7428b1164/)
 
 ## 📚 Projects
 
