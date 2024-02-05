@@ -2,17 +2,6 @@
 
 I'm a passionate web developer with expertise in PHP, MySQL, WordPress, Laravel, AWS, cPanel, and Git. I love building robust and scalable web applications and exploring new technologies.
 
-# Certificates
-
-[HackerRank Certificate 1](https://www.hackerrank.com/certificates/a1f0c8b0effd)
-![HackerRank Certificate 1](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled.png)
-
-[TestDome Certificate](https://www.testdome.com/certificates/62967542b99c490998bba9004c22dd7f)
-![TestDome Certificate](certificate_images/testdome_certificate.jpg)
-
-[HackerRank Certificate 2](https://www.hackerrank.com/certificates/dd5ec952a8ed)
-![HackerRank Certificate 2](certificate_images/hackerrank_certificate2.jpg)
-
 ## 🔧 Technologies & Tools
 
 - ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -168,6 +157,19 @@ Similar to the Corvive project, these OpenCart projects involved customization, 
 - JavaScript
 - MySQL
 - PERL
+
+# Certificates
+
+[HackerRank Certificate 1](https://www.hackerrank.com/certificates/a1f0c8b0effd)
+![HackerRank Certificate 1](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled.png)
+
+[HackerRank Certificate 2](https://www.hackerrank.com/certificates/dd5ec952a8ed)
+![HackerRank Certificate 2](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled3.png)
+
+[TestDome Certificate](https://www.testdome.com/certificates/62967542b99c490998bba9004c22dd7f)
+![TestDome Certificate](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled1.png)
+
+
 
 ---
 
