@@ -21,7 +21,7 @@ Feel free to reach out to me via email at [jaylordlagud2022@gmail.com](mailto:ja
 
 Here are some of the projects I've worked on:
 
-# Project 1: Edfolio
+# Edfolio
 
 Edfolio is an integrated e-commerce bookstore linked with Skooltek, a school management system. It simplifies the process for students to purchase academic books, ensuring seamless transactions reflected in the Skooltek student library.
 
@@ -157,6 +157,55 @@ Similar to the Corvive project, these OpenCart projects involved customization, 
 - JavaScript
 - MySQL
 - PERL
+
+# GovConWire
+
+**Description:**
+GovConWire is a leading news and blog platform that specializes in delivering up-to-date and concise news about government contracting. The platform covers significant contract awards, executive moves, mergers and acquisitions, and financial results within the government contracting sector. It ensures real-time updates, making it an essential source for professionals in the field. The project involves managing content and user interactions using a robust WordPress setup, ensuring the platform's high availability and performance on a Cpanel-hosted environment.
+
+**Technologies Used:**
+- PHP
+- WordPress
+- MySQL
+- Closte
+- JavaScript
+- CSS
+- HTML
+
+For more information about GovConWire, you can visit the website [here](https://www.govconwire.com).
+
+# GovConExec
+
+**Description:**
+GovConExec is a premier platform dedicated to providing the latest news, insights, and analysis in the government contracting industry. The platform highlights significant contract awards, executive moves, mergers and acquisitions, and financial performance of key players in the sector. Developed with a focus on reliability and performance, the project leverages WordPress for content management, Closte for hosting, and ensures robust database management using MySQL.
+
+**Technologies Used:**
+- PHP
+- WordPress
+- MySQL
+- Closte
+- JavaScript
+- CSS
+- HTML
+
+For more information about GovConExec, you can visit their website [here](https://www.govconexec.com).
+
+# The Potomac Officers Club (POC)
+
+**Description:**
+The Potomac Officers Club (POC) is an exclusive organization dedicated to connecting and promoting senior executives from the government contracting community. The platform provides a venue for key decision-makers to share insights, discuss industry trends, and network through high-level events and forums. The project was built with a focus on delivering a seamless user experience and efficient content management. Utilizing WordPress for its robust CMS capabilities and Closte for hosting ensures the platform's scalability and performance.
+
+**Technologies Used:**
+- PHP
+- WordPress
+- MySQL
+- Closte
+- JavaScript
+- CSS
+- HTML
+
+For more information about The Potomac Officers Club, you can visit their website [here](https://www.potomacofficersclub.com).
+
 
 # Certificates
 
