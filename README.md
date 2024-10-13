@@ -63,6 +63,8 @@ Edfolio is an integrated e-commerce bookstore linked with Skooltek, a school man
 
 Edfolio streamlines book purchasing for students, ensuring a seamless connection with Skooltek and enriching the overall educational experience.
 
+For more information about Edfolio, you can visit their website [here](https://www.edfolio.co/).
+
 # Skooltek Meet
 
 Skooltek Meet is a web conference platform similar to Google Meet or Zoom, designed and implemented for seamless virtual communication within the Skooltek ecosystem.
@@ -84,6 +86,8 @@ Skooltek Meet is a web conference platform similar to Google Meet or Zoom, desig
 - **HTML**
 - **CSS**
 
+For more information about Skooltek Meet, you can visit their website [here](https://meet.skooltek.co/).
+
 ## EPX Worldwide
 
 **Description:**
@@ -97,6 +101,8 @@ EPX Worldwide is a dynamic tech platform and global network fostering connection
 - JavaScript
 - CSS
 - HTML
+
+For more information about EPX Worldwide, you can visit their website [here](https://epxworldwide.com/).
 
 ---
 
