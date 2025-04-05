@@ -4,228 +4,242 @@ I'm a passionate web developer with expertise in PHP, MySQL, WordPress, Laravel,
 
 ## 🔧 Technologies & Tools
 
+### 🖥️ Languages & Scripting
 - ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+- ![Shell Script](https://img.shields.io/badge/-Shell_Script-333333?style=flat&logo=gnu-bash)
+
+### 🧱 Frontend Tools
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+- ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+- ![Alpine.js](https://img.shields.io/badge/-Alpine.js-333333?style=flat&logo=alpine.js)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+
+### 🛠️ Frameworks & CMS
 - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+- ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+
+### 🗄️ Databases & Backend
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+### ⚙️ Tools & DevOps
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- ![Composer](https://img.shields.io/badge/-Composer-333333?style=flat&logo=composer)
+- ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+- ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+- ![Xdebug](https://img.shields.io/badge/-Xdebug-333333?style=flat&logo=php)
+- ![PHPUnit](https://img.shields.io/badge/-PHPUnit-333333?style=flat&logo=php)
+
+### ☁️ Hosting & Deployment
 - ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 - ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cpanel)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+- ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+
+### 🧰 Development Tools
+- ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+
 
 ## 🌐 Connect with Me
 Feel free to reach out to me via email at [jaylordlagud2022@gmail.com](mailto:jaylordlagud2022@gmail.com) for collaboration, questions, or just to say hello! I'm always open to new opportunities and exciting discussions.
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaylord-andrada-lagud-7428b1164/)
 
-## 📚 Projects
+# 📚 Projects
 
-Here are some of the projects I've worked on:
+## Edfolio
 
-# Edfolio
+Edfolio is an integrated e-commerce bookstore linked with **Skooltek**, a school management system. It simplifies the process for students to purchase academic books, ensuring seamless transactions reflected in the Skooltek student library.
 
-Edfolio is an integrated e-commerce bookstore linked with Skooltek, a school management system. It simplifies the process for students to purchase academic books, ensuring seamless transactions reflected in the Skooltek student library.
+### 🔹 Key Features:
+- **User-Friendly Platform:** Easy book browsing and purchasing.
+- **Integration with Skooltek:** Automatic updating of the student library with each purchase.
+- **Secure Transactions:** Industry-standard encryption and secure payment gateways.
+- **Personalized Recommendations:** Tailored book suggestions based on user preferences.
+- **Mobile Responsiveness:** Convenient access and purchases from mobile devices.
 
-## Key Features:
+### 🔹 Benefits:
+- **Efficient Book Procurement:** Swift and efficient acquisition of academic books.
+- **Centralized Library Management:** Accurate and centralized record of student library resources.
+- **Enhanced Academic Experience:** One-stop solution for educational resources and school management.
 
-- **User-Friendly Platform:**
-  - Easy book browsing and purchasing.
+### 🚀 Future Enhancements:
+- **Expanded Book Categories:** Introduction of a broader range of book categories.
+- **Publisher Collaborations:** Collaboration with publishers for exclusive discounts and offers.
 
-- **Integration with Skooltek:**
-  - Automatic updating of the student library with each purchase.
+🌐 **More Info:** [Visit Edfolio](https://www.edfolio.co/)
 
-- **Secure Transactions:**
-  - Industry-standard encryption and secure payment gateways.
+---
 
-- **Personalized Recommendations:**
-  - Tailored book suggestions based on user preferences.
+## Skooltek Meet
 
-- **Mobile Responsiveness:**
-  - Convenient access and purchases from mobile devices.
+**Skooltek Meet** is a web conference platform similar to Google Meet or Zoom, designed for seamless virtual communication within the Skooltek ecosystem.
 
-## Benefits:
+### 🔹 Key Contributions:
+- Installed and modified **Jitsi Meet** (Open Source).
+- Configured **AWS EC2 Instance** and **Linux Server** for scalability.
+- Customized Jitsi Meet to meet specific requirements.
 
-- **Efficient Book Procurement:**
-  - Swift and efficient acquisition of academic books.
+### 🛠️ Technologies Used:
+- PHP
+- Jitsi Meet
+- AWS
+- Git
+- HTML, CSS
 
-- **Centralized Library Management:**
-  - Accurate and centralized record of student library resources.
+🌐 **More Info:** [Visit Skooltek Meet](https://meet.skooltek.co/)
 
-- **Enhanced Academic Experience:**
-  - One-stop solution for educational resources and school management.
-
-## Future Enhancements:
-
-- **Expanded Book Categories:**
-  - Introduction of a broader range of book categories.
-
-- **Publisher Collaborations:**
-  - Collaboration with publishers for exclusive discounts and offers.
-
-Edfolio streamlines book purchasing for students, ensuring a seamless connection with Skooltek and enriching the overall educational experience.
-
-For more information about Edfolio, you can visit their website [here](https://www.edfolio.co/).
-
-# Skooltek Meet
-
-Skooltek Meet is a web conference platform similar to Google Meet or Zoom, designed and implemented for seamless virtual communication within the Skooltek ecosystem.
-
-## Key Contributions:
-
-- **Installed and Modified Jitsi Meet (Open Source):**
-  - Implemented and customized the open-source Jitsi Meet platform to meet the specific requirements of Skooltek Meet.
-
-- **Configured AWS EC2 Instance and Linux Server:**
-  - Leveraged AWS services to set up an EC2 instance and configured a Linux server to ensure a robust and scalable infrastructure.
-
-## Technologies Used:
-
-- **PHP**
-- **Jitsi Meet**
-- **AWS**
-- **Git**
-- **HTML**
-- **CSS**
-
-For more information about Skooltek Meet, you can visit their website [here](https://meet.skooltek.co/).
+---
 
 ## EPX Worldwide
 
-**Description:**
-EPX Worldwide is a dynamic tech platform and global network fostering connections among peers worldwide. The platform allows users to host and attend talks, classes, events, adventures, and build their own communities. Key contributions include the development of a Customized WooCommerce plugin, creation of custom WordPress plugins, and the establishment of a REST API for mobile integration. Mautic CRM integration and setup of WooCommerce subscription and payment gateway enhance the platform's functionality.
+**EPX Worldwide** is a dynamic tech platform fostering global connections through talks, classes, events, and community-building.
 
-**Technologies Used:**
-- PHP
-- WordPress
-- MySQL
-- Cpanel
-- JavaScript
-- CSS
-- HTML
+### 🔹 Key Contributions:
+- Developed a **custom WooCommerce plugin**.
+- Created **custom WordPress plugins**.
+- Established a **REST API** for mobile integration.
+- Integrated **Mautic CRM** and WooCommerce subscription/payment gateway.
 
-For more information about EPX Worldwide, you can visit their website [here](https://epxworldwide.com/).
+### 🛠️ Technologies Used:
+- PHP, WordPress, MySQL, JavaScript
+- Cpanel, Git, CSS, HTML
+
+🌐 **More Info:** [Visit EPX Worldwide](https://epxworldwide.com/)
 
 ---
 
 ## LMW (Learn My Word)
 
-**Description:**
-LMW is a purpose-driven platform designed for those teaching God's Word. Developed from scratch, the project includes the setup of database tables and relations. Configuration of Stripe subscription and payment gateway, coupled with the development of a REST API for mobile, empowers users to improve their biblical understanding and share the gospel confidently. The platform is hosted on AWS EC2 instance and Linux server.
+A platform designed for those teaching **God’s Word**, built from scratch with a focus on **database structure, payment processing, and mobile API**.
 
-**Technologies Used:**
-- PHP
-- Laravel
-- MySQL
-- Git
-- JavaScript
-- CSS
-- HTML
+### 🔹 Key Contributions:
+- Configured **Stripe subscription & payment gateway**.
+- Developed a **REST API for mobile apps**.
+- Hosted on **AWS EC2 instance & Linux server**.
+
+### 🛠️ Technologies Used:
+- PHP, Laravel, MySQL, Git, JavaScript, HTML, CSS
 
 ---
 
 ## Newtech
 
-**Description:**
-Contributions to the Newtech project involve adding new features and modifying source code within the Bitrix framework. Technologies utilized include PHP, Bitrix Framework, MySQL, Git, and JavaScript.
+**Newtech** involves modifying and adding new features to the **Bitrix Framework**.
 
-**Technologies Used:**
-- PHP
-- Bitrix Framework
-- MySQL
-- Git
-- JavaScript
+### 🛠️ Technologies Used:
+- PHP, Bitrix Framework, MySQL, Git, JavaScript
 
 ---
 
-## E-commerce Projects
+## 🛍️ E-commerce Projects
 
-### Corvive (OpenCart)
+### 🔹 Corvive (OpenCart)
+- Customized OpenCart features and modified plugins.
+- Integrated various **merchant services**.
+- Configured **shipping & tax settings**.
 
-**Description:**
-Tailored OpenCart to specific requirements, modified OpenCart plugins for personalized functionality, and seamlessly integrated various merchant services. Configured shipping and tax settings for a comprehensive e-commerce setup.
+### 🔹 J. Elizabeth Boutique (OpenCart)
+- Similar to Corvive, focused on customization and feature enhancement.
 
-**Technologies Used:**
-- PHP
-- OpenCart
-- JavaScript
-- MySQL
-- PERL
+### 🔹 Tate and Zoey (OpenCart)
+- Implemented OpenCart modifications and merchant integrations.
 
-### J. Elizabeth Boutique (OpenCart)
+### 🔹 Additional E-commerce Platforms
+- **VDP**: [VidaPure](https://vidapure.com/lander)
+- **CTFO**: [CTFO Shop](https://www.myctfo.com/shop)
+- **MIB**: [Mi-Beauti](https://mi-beauti.com/)
+- **CCO**: [The CC Originals](https://theccoriginals.a-zcompanies.com/)
+- **XEN**: [Xenesta Life](https://office.xenestalife.com)
+- **PLN**: [My Plunder](https://office.myplunder.com/)
+- **PNI**: [Plentiq](https://office.plentiq.me)
+- **UIG**: [My UIG](https://myuig.com)
+- **GGC**: [Track My Ripple](https://office.trackmyripple.com)
+- **TWB**: [My Wealthy Backpacker](https://office.mywealthybackpacker.com)
+- **CEL**: [My Cellements](https://office.mycellements.com)
+- **REL**: [Realizevo](https://office.realizevo.com)
+- **TTR**: [TTO Reloaded](https://office.ttoreloaded.com/index.cgi)
 
-### Tate and Zoey (OpenCart)
+### 🛠️ Technologies Used:
+- PHP, OpenCart, JavaScript, MySQL, PERL
 
-**Description:**
-Similar to the Corvive project, these OpenCart projects involved customization, modification of plugins, and comprehensive e-commerce setup.
+---
 
-**Technologies Used:**
-- PHP
-- OpenCart
-- JavaScript
-- MySQL
-- PERL
+## 📰 GovConWire
 
-# GovConWire
+**GovConWire** is a leading news and blog platform specializing in **government contracting news**.
 
-**Description:**
-GovConWire is a leading news and blog platform that specializes in delivering up-to-date and concise news about government contracting. The platform covers significant contract awards, executive moves, mergers and acquisitions, and financial results within the government contracting sector. It ensures real-time updates, making it an essential source for professionals in the field. The project involves managing content and user interactions using a robust WordPress setup, ensuring the platform's high availability and performance on a Cpanel-hosted environment.
+### 🔹 Key Features:
+- Real-time updates on **contract awards, mergers, acquisitions, and executive moves**.
+- WordPress-based **content management** for high availability and performance.
 
-**Technologies Used:**
-- PHP
-- WordPress
-- MySQL
-- Closte
-- JavaScript
-- CSS
-- HTML
+### 🛠️ Technologies Used:
+- PHP, WordPress, MySQL, Closte, JavaScript, CSS, HTML
 
-For more information about GovConWire, you can visit the website [here](https://www.govconwire.com).
+🌐 **More Info:** [Visit GovConWire](https://www.govconwire.com/)
 
-# GovConExec
+---
 
-**Description:**
-GovConExec is a premier platform dedicated to providing the latest news, insights, and analysis in the government contracting industry. The platform highlights significant contract awards, executive moves, mergers and acquisitions, and financial performance of key players in the sector. Developed with a focus on reliability and performance, the project leverages WordPress for content management, Closte for hosting, and ensures robust database management using MySQL.
+## 🏛️ GovConExec
 
-**Technologies Used:**
-- PHP
-- WordPress
-- MySQL
-- Closte
-- JavaScript
-- CSS
-- HTML
+A premier platform providing the latest **news, insights, and analysis in government contracting**.
 
-For more information about GovConExec, you can visit their website [here](https://www.govconexec.com).
+### 🔹 Key Contributions:
+- Optimized **WordPress CMS** for high performance.
+- Leveraged **Closte for hosting** and **MySQL for database management**.
 
-# The Potomac Officers Club (POC)
+### 🛠️ Technologies Used:
+- PHP, WordPress, MySQL, Closte, JavaScript, CSS, HTML
 
-**Description:**
-The Potomac Officers Club (POC) is an exclusive organization dedicated to connecting and promoting senior executives from the government contracting community. The platform provides a venue for key decision-makers to share insights, discuss industry trends, and network through high-level events and forums. The project was built with a focus on delivering a seamless user experience and efficient content management. Utilizing WordPress for its robust CMS capabilities and Closte for hosting ensures the platform's scalability and performance.
+🌐 **More Info:** [Visit GovConExec](https://www.govconexec.com/)
 
-**Technologies Used:**
-- PHP
-- WordPress
-- MySQL
-- Closte
-- JavaScript
-- CSS
-- HTML
+---
 
-For more information about The Potomac Officers Club, you can visit their website [here](https://www.potomacofficersclub.com).
+## 🎖️ The Potomac Officers Club (POC)
+
+**POC** is an exclusive organization for **government contracting executives**, providing a platform for industry networking and discussions.
+
+### 🔹 Key Features:
+- High-level **networking events and forums**.
+- WordPress-based content management.
+
+### 🛠️ Technologies Used:
+- PHP, WordPress, MySQL, Closte, JavaScript, CSS, HTML
+
+🌐 **More Info:** [Visit POC](https://www.potomacofficersclub.com/)
 
 
-# Certificates
+# 🎓 Certificates
 
-[HackerRank Certificate 1](https://www.hackerrank.com/certificates/a1f0c8b0effd)
+## HackerRank Certificates
+
+[HackerRank Certificate 1](https://www.hackerrank.com/certificates/a1f0c8b0effd)  
 ![HackerRank Certificate 1](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled.png)
 
-[HackerRank Certificate 2](https://www.hackerrank.com/certificates/dd5ec952a8ed)
+[HackerRank Certificate 2](https://www.hackerrank.com/certificates/dd5ec952a8ed)  
 ![HackerRank Certificate 2](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled3.png)
 
-[TestDome Certificate](https://www.testdome.com/certificates/62967542b99c490998bba9004c22dd7f)
-![TestDome Certificate](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled1.png)
+## TestDome Certificates
 
-[TestDome Certificate](https://www.testdome.com/certificates/3d456f5312ed4c6e9585ee34b86dda75)
-![TestDome Certificate](https://github.com/user-attachments/assets/c3c1a9fc-cf1d-4e86-a8c8-d4b9cd08980f)
+[TestDome Certificate 1](https://www.testdome.com/certificates/62967542b99c490998bba9004c22dd7f)  
+![TestDome Certificate 1](https://github.com/jaylordlagud2022/jaylordlagud2022/blob/main/Untitled1.png)
+
+[TestDome Certificate 2](https://www.testdome.com/certificates/3d456f5312ed4c6e9585ee34b86dda75)  
+![TestDome Certificate 2](https://github.com/user-attachments/assets/c3c1a9fc-cf1d-4e86-a8c8-d4b9cd08980f)
 
 ---
 
