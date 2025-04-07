@@ -61,6 +61,29 @@ Feel free to reach out to me via email at [jaylordlagud2022@gmail.com](mailto:ja
 
 # 📚 Projects
 
+---
+
+## 🤖 AI-Powered Service & Brand Page Generator (WordPress Plugin)
+
+This plugin automatically generates SEO-friendly pages for services, brands, and colors using AI-generated content. Designed to enhance website visibility and streamline the content creation process, it dynamically builds pages optimized for search engines.
+
+### 🔹 Key Features:
+- **AI Content Generation**: Auto-generates headings, descriptions, and FAQs using AI.
+- **Dynamic Page Creation**: Creates pages for different services, brands, and even colors.
+- **SEO Optimized**: Each page is structured with on-page SEO best practices.
+- **Custom Template Support**: Uses a clean, responsive template for each generated page.
+
+### 🛠️ Technologies Used:
+- PHP, WordPress, MySQL, JavaScript
+- OpenAI API for content generation
+
+### 🚀 Future Enhancements:
+- WooCommerce product integration
+- RankMath & Yoast SEO compatibility
+- UI improvements for admin control
+
+🌐 **Plugin Version**: 1.3
+
 ## Edfolio
 
 Edfolio is an integrated e-commerce bookstore linked with **Skooltek**, a school management system. It simplifies the process for students to purchase academic books, ensuring seamless transactions reflected in the Skooltek student library.
