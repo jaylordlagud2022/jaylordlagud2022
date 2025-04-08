@@ -13,12 +13,9 @@ I'm a passionate web developer with expertise in PHP, MySQL, WordPress, Laravel,
 ### 🧱 Frontend Tools
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 - ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-- ![Alpine.js](https://img.shields.io/badge/-Alpine.js-333333?style=flat&logo=alpine.js)
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 
 ### 🛠️ Frameworks & CMS
 - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
