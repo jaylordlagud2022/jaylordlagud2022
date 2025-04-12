@@ -51,8 +51,8 @@ I'm a passionate web developer with expertise in PHP, MySQL, WordPress, Laravel,
 ### 💳 Payment Gateway Tools
 - ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
 - ![PayPal](https://img.shields.io/badge/-PayPal-333333?style=flat&logo=paypal)
-- ![Tazapay](https://img.shields.io/badge/-Tazapay-333333?style=flat&logo=data:image/svg+xml;base64)
-- ![Maya](https://img.shields.io/badge/-Maya-333333?style=flat&logo=data:image/svg+xml;base64)
+- ![Tazapay](https://img.shields.io/badge/-Tazapay-333333?style=flat)
+- ![Maya](https://img.shields.io/badge/-Maya-333333?style=flat)
 
 ## 🌐 Connect with Me
 Feel free to reach out to me via email at [jaylordlagud2022@gmail.com](mailto:jaylordlagud2022@gmail.com) for collaboration, questions, or just to say hello! I'm always open to new opportunities and exciting discussions.
